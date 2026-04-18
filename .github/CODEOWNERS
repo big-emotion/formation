@@ -1,0 +1,25 @@
+# Ownership par module — rotation naturelle entre co-fondateurs.
+# Remplacer les placeholders par les vrais handles GitHub avant le premier push.
+# Combiné à branch protection (2 approvals + author can't approve),
+# cela force mécaniquement la règle "pas d'auto-validation".
+
+# Module 1 — Fondamentaux IA
+/Module-1_Agents-IA-LLM/   @PLACEHOLDER-JN @PLACEHOLDER-CF2
+
+# Module 2 — Pratique métier
+/Module-2_Pratique-Metier/ @PLACEHOLDER-CF2 @PLACEHOLDER-CF3
+
+# Évaluations (sensible Qualiopi C2) — JN + co-fondateur 3
+/Evaluations/              @PLACEHOLDER-JN @PLACEHOLDER-CF3
+
+# Admin post-formation
+/Admin/                    @PLACEHOLDER-JN @PLACEHOLDER-CF3
+
+# Marketing / LinkedIn
+/linkedin/                 @PLACEHOLDER-MARKETING
+
+# Fichiers de configuration du repo
+/.github/                  @PLACEHOLDER-JN
+/CLAUDE.md                 @PLACEHOLDER-JN
+/CONTRIBUTING.md           @PLACEHOLDER-JN
+/README.md                 @PLACEHOLDER-JN
