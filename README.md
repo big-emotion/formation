@@ -34,8 +34,10 @@ Dispositif de formation clé en main de **35 heures**, structuré en 10 sessions
 | Ressource | Lien |
 |---|---|
 | 🏠 Hub Formation | [Page Formation](https://www.notion.so/334a0481e72d80a382a2f7aefb543d40) |
-| 🗺️ Roadmap v1.0 (Track A pédagogique) | [Roadmap + Tableau maître](https://www.notion.so/346a0481e72d81ed8030ef9fee52a965) |
-| 📊 Analyse du programme (forces, faiblesses, Qualiopi) | [Analyse Qualiopi](https://www.notion.so/346a0481e72d81a195fbe7178810e8c9) |
+| 🗺️ Roadmap v1.0 (Track A pédagogique) | [Roadmap 4 semaines](https://www.notion.so/346a0481e72d81ed8030ef9fee52a965) |
+| 📊 Tableau maître v1.0 | [Base de données — 63 lignes (fiches + decks)](https://www.notion.so/1854b10b48de43179713cab522b5917d) |
+| 📐 Périmètre v1.0 | [IN / OUT pour la v1.0](https://www.notion.so/346a0481e72d81469dcec128dbfceb50) |
+| 🧪 Analyse du programme | [Forces, faiblesses, Qualiopi](https://www.notion.so/346a0481e72d81a195fbe7178810e8c9) |
 
 **Notion = source de vérité pour les statuts.** GitHub = outil de review uniquement.
 
